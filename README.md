@@ -2,6 +2,8 @@
 
 DLLM Dashboard GUI for GPU Compute Providers.
 
+[![DLLM Dashboard GUI Demo](demo-thumbnail.png)](https://vimeo.com/1059954892)
+
 ## Screenshots
 
 ![Screenshot 1](https://github.com/user-attachments/assets/404c5555-98a2-4675-b9e2-4d98ee3dec46)
