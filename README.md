@@ -14,7 +14,7 @@ DLLM Dashboard GUI for GPU Compute Providers.
 
 | Platform | Status | Download |
 |----------|--------|----------|
-| Windows | ✅ Available | [<img src="https://img.shields.io/badge/Download-DLLM%20Chat%200.0.1-blue?style=for-the-badge&logo=windows" alt="Download for Windows">](https://github.com/dllmchat/DLLM-Dashboard-GUI/releases/download/0.0.1/dllmchat-Setup-0.0.2.exe) |
+| Windows | ✅ Available | [<img src="https://img.shields.io/badge/Download-DLLM%20Chat%200.0.2-blue?style=for-the-badge&logo=windows" alt="Download for Windows">](https://github.com/dllmchat/DLLM-Dashboard-GUI/releases/download/0.0.2/dllmchat-Setup-0.0.2.exe) |
 | macOS | 🔜 Coming soon | <img src="https://img.shields.io/badge/macOS-Coming%20Soon-lightgrey?style=for-the-badge&logo=apple" alt="macOS Coming Soon"> |
 | Linux | 🔜 Coming soon | <img src="https://img.shields.io/badge/Linux-Coming%20Soon-lightgrey?style=for-the-badge&logo=linux" alt="Linux Coming Soon"> |
 
